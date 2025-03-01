@@ -108,7 +108,7 @@ This structured approach ensures a **clear, data-driven visualization** of ride 
 
 # Output
 
-![Dashboard Overview]()
+![Dashboard Overview](https://github.com/inarenpithani/ola-data-analysis/blob/main/ola-output.png)
 
 
 
